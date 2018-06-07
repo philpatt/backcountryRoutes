@@ -1,0 +1,14 @@
+{
+  "name": "backcountryroutes",
+  "version": "1.0.0",
+  "description": "Backcountry ski and snowboard routes in washington",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Patterson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
